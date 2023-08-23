@@ -60,6 +60,38 @@ body{
     
 }
 
+
+
+/* ******** card ******** */
+.card {
+  position: relative;
+  height: 50vh;
+}
+
+.art, .story {
+  position: absolute;
+  bottom: 0;
+}
+
+.art img{
+width: 8vw;
+}
+.story img{
+width: 8vw;
+}
+
+.art {
+  left: 0;
+}
+
+.story {
+  right:0;
+  top: -0px;
+}
+
+
+
+
 .flex-box{
     justify-content: space-evenly;
 }

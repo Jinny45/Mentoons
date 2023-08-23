@@ -1,0 +1,55 @@
+body{
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+
+.nav-bar {
+    margin-left: 240px !important;
+    font-size: 1.3rem;
+    
+}
+.nav-item{
+    margin-left: 20px !important;
+    
+}
+.item{
+    display: none;
+}
+.home{
+    width: 100vw;
+    height: 100vh;
+    background-color: #FCE5C6;
+}
+
+.navbar{
+    background-color:#52b2cf !important ;
+    color: white !important;
+    /* position:fixed; */
+    width: 100%;
+}
+/* .join-us-btn{
+    background-color: rgb(9, 119, 244);
+    border-radius: 18px;
+    padding: 5px 18px;
+    font-size: 1rem;
+    color: white;
+    border: 3px solid white;
+    box-shadow: 4px 4px 8px rgb(0, 0, 0);
+    margin-right: 100px;
+} */
+
+.benifit-bar{
+    background-color: rgb(248, 213, 36);
+    height: 50px;
+    padding-top: 10px ;
+    padding-bottom: -10px ;
+    justify-content:center !important;
+    align-items: center;
+}
+
+/* .benifit-bar div{
+    margin-left: 70px;
+} */
